@@ -1,9 +1,9 @@
 # Experiment No. 3: Program to Implement Banker's Algorithm
 
-Royce Niran George A
-
-212223060231
-
+```
+Name : Namachivayam T
+Reg No : 212223060179
+```
 ## Aim
 
 To write and execute a Python program to implement the Banker's Algorithm for deadlock avoidance and determine whether the system is in a safe state by finding a safe sequence of process execution.
